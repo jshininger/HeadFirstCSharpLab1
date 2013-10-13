@@ -314,7 +314,6 @@
             this.MinimizeBox = false;
             this.Name = "Form1";
             this.Text = "A Day at the Races";
-            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.racetrackPictureBox)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dog1PictureBox)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dog2PictureBox)).EndInit();

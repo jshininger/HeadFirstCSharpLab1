@@ -123,10 +123,5 @@ namespace Lab1_ADayAtTheRaces
             Bettor = guys[2];
             bettorLabel.Text = Bettor.Name;
         }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
